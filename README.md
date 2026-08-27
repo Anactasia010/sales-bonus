@@ -1,4 +1,4 @@
-https://github.com/Anactasia010/sales-bonus/actions
+https://github.com/Anactasia010/sales-bonus
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
